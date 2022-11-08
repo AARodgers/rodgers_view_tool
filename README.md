@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install rodgers_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+RodgersViewTool::Renderer.copyright 'Amanda Rodgers', 'All rights reserved'
+```
 
 ## Development
 
