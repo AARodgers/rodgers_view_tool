@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "rodgers_view_tool"
   spec.version = RodgersViewTool::VERSION
   spec.authors = ["Amanda Rodgers"]
-  spec.email = ["aarodgerswork@gmail.com"]
+  spec.email = ["jorange2468@gmail.com"]
 
   spec.summary = "Various view specific methods for applications."
   spec.description = "Provides generated HTML data for Rails applications."
@@ -14,9 +14,9 @@ Gem::Specification.new do |spec|
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+  #spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
-  spec.metadata["homepage_uri"] = spec.homepage
+  #spec.metadata["homepage_uri"] = spec.homepage
   #spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
   #spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
